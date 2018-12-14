@@ -4,6 +4,7 @@ ruby "~> 2.5.0"
 
 gem "certificate-transparency-client"
 gem "dotenv"
+gem "faye-websocket"
 gem "http"
 gem "levenshtein-ffi"
 gem "oga"
